@@ -6,9 +6,8 @@
 
 ##
 
- <div align="center">
+ <div align="lefth">
   <a href="https://github.com/yanmoraes021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmoraes021&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmoraes021&layout=compact&langs_count=7&theme=blue-green"/>
  </div>
 
